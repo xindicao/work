@@ -1,0 +1,27 @@
+安装版SVN：192.168.54.100/msi
+内网CAD浮动授权：192.168.55.9
+云桌面：http://192.168.54.122/Citrix
+JIRA：https://jira.zwcad.com/
+
+
+
+查JIRA号：project = ZWCAD AND "External URL" = "http://zds.zwsoft.org:8088/lists/ZWCADE2/DispForm.aspx?ID=16980"
+
+
+
+FNP测试
+
+\\192.168.56.100\exchange\lixiao0\out   6100  zwcad.2019
+浮动授权服务器地址：192.168.58.139
+在线激活/离线激活单机可用激活号：8MQR-3MHL-QU9Z-TZBF-ZJC9-EUYX 20212109_ZWCAD2021_PER_SINGLE
+
+\\192.168.56.99\vm  到这个服务下载对应的操作系统服务器
+账号： 699    M: zwcad.2019
+
+
+
+
+2021 release版本下载地址：
+下载链接：https://pan.baidu.com/s/1k6aTuMzXCMnbJzYiy965ZA 提取码：p1sm
+
+

@@ -1,0 +1,2 @@
+D:\VSWorkSpace\C++Primer\1.3\Debug\1.3.exe
+D:\VSWorkSpace\C++Primer\1.3\Debug\1.3.pdb
